@@ -53,7 +53,7 @@ Exploratory Data Analysis involves visually exploring the dataset, identifying p
 
 ## Results and Insights
 
-The analysis results, insights, and key findings are summarized in the project documentation and Jupyter notebooks. Additionally, visualizations and statistical analysis outputs provide a comprehensive understanding of unemployment trends in India before and after the COVID-19 pandemic.
+The analysis results, insights, and key findings are summarized in the  Jupyter notebook. Additionally, visualizations and statistical analysis outputs provide a comprehensive understanding of unemployment trends in India before and after the COVID-19 pandemic.
 
 ## Contributing
 
