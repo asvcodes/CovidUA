@@ -1,5 +1,3 @@
-Certainly, here's the updated README file with the MIT license and acknowledgment to Gokul Raj Kuppan and CIME for the dataset:
-
 ---
 
 # COVID-19 Unemployment Analysis in India
