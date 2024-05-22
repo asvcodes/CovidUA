@@ -7,7 +7,7 @@ This repository contains the code and data for analyzing unemployment patterns i
 
 ## Dataset
 
-The primary dataset used in this analysis is sourced from [CIME](insert link to CIME website or dataset). It includes [describe the key attributes and structure of the dataset, such as columns, data types, and time frame covered]. Additionally, any supplementary datasets or external sources utilized for contextual analysis are listed here.
+The primary dataset used in this analysis is sourced from kaggle. Further info id provided in the notebook, kindly refer to it.
 
 ## Project Structure
 
